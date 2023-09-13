@@ -1,0 +1,10 @@
+.outline{
+    border: solid 1px rgb(36, 38, 38);
+    border-radius: 5px;
+    
+}
+.outline:hover
+{
+    border: white solid 1px;
+}
+
